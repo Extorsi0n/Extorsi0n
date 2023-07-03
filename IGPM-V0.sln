@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGPM-V0", "IGPM-V0.csproj", "{2233C1D8-120D-43C9-BB7F-ED96BB8508CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2233C1D8-120D-43C9-BB7F-ED96BB8508CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2233C1D8-120D-43C9-BB7F-ED96BB8508CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2233C1D8-120D-43C9-BB7F-ED96BB8508CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2233C1D8-120D-43C9-BB7F-ED96BB8508CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B47ECA8-CBFC-46FF-A46B-AC7489A6DD5E}
+	EndGlobalSection
+EndGlobal
